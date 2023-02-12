@@ -1,0 +1,140 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    
+}
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    gap:10px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.first{
+    background-color: #1F2937;
+    color: white;
+    padding:50px;
+    
+}
+.headertext{
+    color:#F9FAF8;
+    font-weight: bold;
+    width:180px;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+}
+.textlogo{
+    display:flex;
+    gap:10px;
+}
+.headerlist{
+    margin-left: auto;
+}
+.group1{
+    display:flex;
+    gap:180px;
+}
+.group2{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.firstsign{
+    width:70px;
+    height:30px;
+    background-color:#3882F6;
+    color: white;
+}
+.maintext{
+    font-weight:900;
+    margin-bottom:-5px;
+    color:#F9FAF8;
+}
+.secondary,ul{
+    color:#E5E7EB;
+}
+
+.wrap{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.first-set,.second-set,.third-set,.fourth-set{
+    display:flex;
+    flex-direction: column;
+
+}
+.twopic{
+    width:180px;
+    height:130px;
+    border:solid 3px dodgerblue;
+    border-radius:15px;
+}
+#twoheader{
+    text-align: center;
+    font-weight:900;
+    color:#1F2937;
+    margin-bottom: 10px;
+    margin-top:-20px;
+}
+.third{
+    background-color: #E5E7EB;
+    padding:50px;
+}
+#author{
+    text-align: right;
+    font-weight: 700;
+}
+#authortext{
+    font-style: italic;
+}
+.fourth{
+    display:flex;
+    background-color:#3882F6;
+    padding:40px;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    margin:20px;
+
+}
+.secondsign{
+    min-width:80px;
+    background-color:#3882F6;
+    border:solid 1px white;
+    color:white;
+    border-radius: 5px;
+}
+.footer{
+    margin-top: auto;
+    background-color: #1f2937;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+}
+.customer{
+    display:flex;
+    flex-direction: column;
+    color:white;
+}
+.customerfirst{
+    font-weight: 600;
+}
+.second{
+    padding:50px;
+}
