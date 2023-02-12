@@ -27,6 +27,7 @@ a{
     color: white;
     padding:50px;
     
+    
 }
 .headertext{
     color:#F9FAF8;
@@ -58,6 +59,7 @@ a{
     height:30px;
     background-color:#3882F6;
     color: white;
+    border-radius: 5px;
 }
 .maintext{
     font-weight:900;
