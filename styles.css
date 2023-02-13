@@ -59,7 +59,7 @@ a{
 }
 .headerlist{
     margin-left: auto;
-    min-width: 300px;
+    min-width: 800px;
 }
 .group1{
     display:flex;
@@ -81,7 +81,7 @@ a{
 .maintext{
     font-weight:900;
     margin-bottom:-5px;
-    color:#F9FAF8;
+    color:red;
 }
 .secondary,ul{
     color:#E5E7EB;
