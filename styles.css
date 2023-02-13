@@ -12,6 +12,7 @@ body{
     justify-content: space-between;
     
     
+    
     margin-bottom: 50px;
     margin-top:20px;
     
@@ -38,10 +39,13 @@ a{
     
     
     
+    
 }
 .headertext{
     color:#F9FAF8;
     font-weight: bold;
+    
+    
     
 }
 .logo{
@@ -51,6 +55,7 @@ a{
 .textlogo{
     display:flex;
     gap:10px;
+    
 }
 .headerlist{
     margin-left: auto;
