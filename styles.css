@@ -51,7 +51,7 @@ a{
 }
 .group1{
     display:flex;
-    justify-content: space-between;
+    gap:40px;
     flex-wrap: wrap;
 }
 .group2{
