@@ -3,8 +3,8 @@ body{
     min-height:100vh;
     display: flex;
     flex-direction: column;
-    justify-content:space-evenly;
-    min-width:100vh;
+    
+    
     
 }
 .header{
