@@ -10,12 +10,13 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-bottom: 50px;
-    margin-top:50px;
+    margin-top:20px;
 }
 ul{
     list-style-type: none;
     display:flex;
     gap:10px;
+    margin-bottom: auto;
     
 }
 a{
