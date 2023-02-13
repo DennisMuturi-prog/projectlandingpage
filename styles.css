@@ -52,6 +52,7 @@ a{
 .group1{
     display:flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .group2{
     display: flex;
