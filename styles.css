@@ -11,15 +11,17 @@ body{
     align-items: center;
     justify-content: space-between;
     
+    
     margin-bottom: 50px;
     margin-top:20px;
+    
 }
 ul{
     list-style-type: none;
     display:flex;
     gap:10px;
     margin-bottom: auto;
-    min: width 600px;
+    
     flex-shrink: 0;
     margin-right: 100px;
     
@@ -40,7 +42,7 @@ a{
 .headertext{
     color:#F9FAF8;
     font-weight: bold;
-    width:180px;
+    
 }
 .logo{
     width: 30px;
@@ -52,6 +54,7 @@ a{
 }
 .headerlist{
     margin-left: auto;
+    min-width: 500px;
 }
 .group1{
     display:flex;
