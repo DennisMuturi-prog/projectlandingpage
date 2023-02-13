@@ -19,7 +19,9 @@ ul{
     display:flex;
     gap:10px;
     margin-bottom: auto;
-    min-width: 190px;
+    min: width 600px;
+    flex-shrink: 0;
+    margin-right: 100px;
     
 }
 a{
