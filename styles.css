@@ -59,7 +59,7 @@ a{
 }
 .headerlist{
     margin-left: auto;
-    min-width: 500px;
+    min-width: 300px;
 }
 .group1{
     display:flex;
